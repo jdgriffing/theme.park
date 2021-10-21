@@ -62,7 +62,7 @@
         "login-page": {
           "star-wars": {
             "css": [
-              "https://https://jdgriffing.github.io/theme.park//CSS/addons/unraid/login-page/star-wars/rebal-base.css?sha=791e90aac0aaaf64d2a35f68f9e6046fd337e480",
+              "https://https://jdgriffing.github.io/theme.park//CSS/addons/unraid/login-page/star-wars/rebal-base.css?sha=2c230a224587b81824b67a5f1ec0a547f590ee46",
               "https://https://jdgriffing.github.io/theme.park//CSS/addons/unraid/login-page/star-wars/rebel.css?sha=da099aa8222ea6771ca8ca9c9b9469ef53d36f45"
             ]
           },
@@ -276,7 +276,7 @@
       "login-page": {
         "star-wars": {
           "css": [
-            "https://https://jdgriffing.github.io/theme.park//CSS/addons/unraid/login-page/star-wars/rebal-base.css?sha=791e90aac0aaaf64d2a35f68f9e6046fd337e480",
+            "https://https://jdgriffing.github.io/theme.park//CSS/addons/unraid/login-page/star-wars/rebal-base.css?sha=2c230a224587b81824b67a5f1ec0a547f590ee46",
             "https://https://jdgriffing.github.io/theme.park//CSS/addons/unraid/login-page/star-wars/rebel.css?sha=da099aa8222ea6771ca8ca9c9b9469ef53d36f45"
           ]
         },
