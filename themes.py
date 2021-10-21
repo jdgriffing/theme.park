@@ -101,7 +101,7 @@ if __name__ == "__main__":
         './CSS/themes') if isdir(join('./CSS/themes', name))]
     themes = [name for name in listdir(
         './CSS/variables') if isfile(join('./CSS/variables', name))]
-    DOMAIN = open("https://jdgriffing.github.io/theme.park/", "rt", closefd=True).readline()
+    DOMAIN = https://jdgriffing.github.io/theme.park/
     apps = loads(create_json(app_folders, themes))
 
     with open("themes.json", "w") as outfile:
