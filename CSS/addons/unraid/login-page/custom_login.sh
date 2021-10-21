@@ -1,8 +1,8 @@
 #!/bin/bash
 TYPE="retro-terminal"
 THEME="green.css"
-DOMAIN="https://github.com/jdgriffing/theme.park/blob/master/CSS/addons/unraid/" #if you update the domain after the script has been run, You must disable and re enable JS or the whole theme.  
-ADD_JS="true"
+DOMAIN="github.com/jdgriffing/theme.park/tree/master" #if you update the domain after the script has been run, You must disable and re enable JS or the whole theme.  
+ADD_JS="false"
 JS="custom_text_header.js"
 DISABLE_THEME="false"
 
