@@ -1,7 +1,8 @@
 #!/bin/bash
 TYPE="star-wars"
 THEME="rebal-base.css"
-DOMAIN="jdgriffing.github.io" #if you update the domain after the script has been run, You must disable and re enable JS or the whole theme.  
+DOMAIN="jdgriffing.github.io/theme.park/" # If you update the domain after the script has been run, You must disable and re the whole theme with the DISABLE_THEME env.
+SCHEME="https"
 ADD_JS="false"
 JS="custom_text_header.js"
 DISABLE_THEME="false"
